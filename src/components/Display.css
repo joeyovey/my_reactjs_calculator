@@ -1,0 +1,19 @@
+/* .display {
+  background-color: #e0f7fa;
+  border: 2px solid #b2ebf2;
+  padding: 10px;
+  font-size: 2em;
+  text-align: right;
+  margin-bottom: 10px;
+} */
+
+.display {
+  background: #e0e0e0;
+  border: none;
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 2em;
+  text-align: right;
+  margin-bottom: 10px;
+  box-shadow: inset 5px 5px 10px #bebebe, inset -5px -5px 10px #ffffff;
+}

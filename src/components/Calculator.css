@@ -1,0 +1,26 @@
+/* .calculator {
+  background-color: #e0f7fa;
+  border: 2px solid #b2ebf2;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+} */
+
+.calculator {
+  background: #87CEEB;
+  border: none;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+}
