@@ -2,7 +2,7 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Create a ReactJS Application. It will be a single route application
 
 ## Description
 TODO - How have you solved the problem?
