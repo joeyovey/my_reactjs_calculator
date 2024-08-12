@@ -2,13 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Create a ReactJS Application. It will be a single route application
 
+The calculator will be able to perform all simple operation: +-/*
 ## Description
-TODO - How have you solved the problem?
+Created a directory that will contain all the Calculator's Components: Button.js, Button.css, Calculator.js, Calculator.css and Display.js
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+To run this project: the following packages needs to be installed on local or online compiler
+npm install - to install react packages
+npm start - to start the server
 
 ## Usage
 TODO - How does it work?
@@ -17,7 +20,7 @@ TODO - How does it work?
 ```
 
 ### The Core Team
-
+--Joseph Ovey Akawu
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
